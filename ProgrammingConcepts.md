@@ -19,6 +19,6 @@
 
 ## Play tips!
 
->If you can't find how to escape from 3 squares, 
->try to get out of canvas!
->You can comeback the opposite side!
+If you can't find how to escape from 3 squares, 
+try to get out of canvas!
+You can comeback the opposite side!
