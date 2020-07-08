@@ -3,12 +3,16 @@
 ## Moving 
 > arrow key moving
 >> keyPressed, keyIsDown  
+
 > object's random location
->> array, color(line) 
+>> array, color(line)
+
 > googly eyes 
 >> shapes, variables 
+
 > objects 
 >> shapes 
+
 > Player
 >> image, key function 
 
