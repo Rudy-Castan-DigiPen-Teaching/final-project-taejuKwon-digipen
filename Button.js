@@ -1,5 +1,5 @@
 //권태주
-//Prototype
+//Final Project
 //CS099
 //Spring 2020
 
