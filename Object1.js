@@ -1,3 +1,8 @@
+//권태주
+//Final project
+//CS099
+//Spring 2020
+
 class Object1 {
   constructor(x, y, radius = 40) {
     this.x = x;
