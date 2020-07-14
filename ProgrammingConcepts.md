@@ -1,24 +1,18 @@
 # CS099 ProgrammingConcepts
 
 ## Moving 
-> arrow key moving
->> keyPressed, keyIsDown  
+Shapes - make **Googly eyes**, **objects**, 
 
-> object's random location
->> array, color(line)
+Colors - make **Blue** line
 
-> googly eyes 
->> shapes, variables 
+Variables - 
 
-> objects 
->> shapes 
+Conditional Statements
 
-> Player
->> image, key function 
+Loops
 
+Functions
 
-## Play tips!
+Classes
 
-If you can't find how to escape from 3 squares, 
-try to get out of canvas!
-You can comeback the opposite side!
+Arrays
