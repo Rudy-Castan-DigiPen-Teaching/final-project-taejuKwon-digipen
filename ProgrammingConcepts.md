@@ -1,6 +1,6 @@
 # CS099 ProgrammingConcepts
 
-## Moving 
+## Topics
 Shapes - make **Googly eyes**, **objects1, 2**
 
 Colors - make **Blue** line
