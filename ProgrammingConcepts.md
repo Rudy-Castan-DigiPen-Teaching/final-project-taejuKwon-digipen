@@ -11,8 +11,8 @@ Conditional Statements - In *player.js*
 
 Loops - **sound**, In **class PlayScene**
 
-Functions - **keyPressed, SceneCommon.js**
+Functions - **keyPressed**, **SceneCommon.js**
 
-Classes - **Player.js, Object1.js, Object2.js, CreditScreen.js, HTPScreen.js, PlayScreen.js, Win.js, Lose.js, Button.js MainMenu.js **
+Classes - **Player.js**, **Object1.js**, **Object2.js**, **CreditScreen.js**, **HTPScreen.js**, **PlayScreen.js**, **Win.js**, **Lose.js**, **Button.js**, **MainMenu.js **
 
 Arrays - Player's **x array**
